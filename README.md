@@ -7,7 +7,6 @@
 5.And then you can display of the website as a output on the browser.
 
 SNAPSHOTS:
-
 Index Page:
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/f7a9301c-1bb5-46f5-a7e1-af747f7ed879">
 
