@@ -7,10 +7,13 @@
 5.And then you can display of the website as a output on the browser.
 
 SNAPSHOTS:
+
 Index Page:
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/f7a9301c-1bb5-46f5-a7e1-af747f7ed879">
+
 Contact Page:
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/035db6d6-4356-4f22-bc95-5c2cc0026e46">
+
 Service Page:
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/0e521f73-a3b0-47fe-9fab-f99026798235">
 
