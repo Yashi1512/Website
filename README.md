@@ -1,5 +1,5 @@
 # Website by using html, css, java-script:
-->What are the steps to make it??
+What are the steps to make it??
 1.Firstly, you should learn the basic things to create the webpage like htnml, css, java-script.
 2.Then, download/clone the such kind of platform like visual-stdio with their compiler to make a website.
 3.After then, we write the code in html, css, java-script languages.
@@ -16,6 +16,8 @@ Contact Page:
 Service Page:
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/0e521f73-a3b0-47fe-9fab-f99026798235">
 
-JUst follow me and star my repository.
+This webiste is useful for time saving by contact directly without reach there.
+
+Just follow me and star my repository.
 
 
