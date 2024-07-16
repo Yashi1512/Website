@@ -1,5 +1,6 @@
 # Website by using html, css, java-script:
-What are the steps to make it??
+What are the steps to make it..??
+
 1.Firstly, you should learn the basic things to create the webpage like htnml, css, java-script.
 2.Then, download/clone the such kind of platform like visual-stdio with their compiler to make a website.
 3.After then, we write the code in html, css, java-script languages.
