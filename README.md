@@ -1,7 +1,13 @@
 # Website by using html, css, java-script:
+
+What is HTML, CSS, JavaScrip?
+Html you known as well that is hypertext markup language that is useful to create the web pages that is execute on browser.
+CSS is a cascading style sheet which is used to design the webpages at symon, provide the connectivity with the multiple webpages. 
+JavaScript is a script that is helpful to security with the help of validation function and provide such function to design using it.
+
 What are the steps to make it..??
 
-1.Firstly, you should learn the basic things to create the webpage like htnml, css, java-script.
+1.Firstly, you should learn the basic things to create the webpage like html, css, java-script.
 2.Then, download/clone the such kind of platform like visual-stdio with their compiler to make a website.
 3.After then, we write the code in html, css, java-script languages.
 4.At last, you will compile and as well as execute the code. 
